@@ -4,7 +4,7 @@ Ovde se nalaze sve šeme, programi i sav prateći materijal koji se nalazi u knj
 <h1>Industrijska primena <b>ARM</b> mikrokontrolera 1. izdanje</h1>
 <p>Ovde možete pronaći sve šeme i primere koji se nalaze u ovoj knjizi.</p>
 
-<image xmlns="stm32 bluepill izometrija svg.svg">
+<image href="stm32 bluepill izometrija svg.svg">
 
 <h2>Upotreba primera</h2>
 Sve primere u ovoj knjizi možete pronaći u folderu <b>Primeri</b>.<br>
