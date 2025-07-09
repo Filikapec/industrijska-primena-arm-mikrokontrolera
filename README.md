@@ -5,5 +5,5 @@ Ovde se nalaze sve šeme, programi i sav prateći materijal koji se nalazi u knj
 <p>Ovde možete pronaći sve šeme i primere koji se nalaze u ovoj knjizi.</p>
 
 <h2>Upotreba primera</h2>
-Sve primere u ovoj knjizi možete pronaći u folderu <b>Primeri</b>.
+Sve primere u ovoj knjizi možete pronaći u folderu <b>Primeri</b>.<br>
 Kako bi ste probali neki od ovih primera morate prvo imati instalirano radno okruženje (<a href='https://www.st.com/en/development-tools/stm32cubeide.html#get-software'>STM32CubeIDE</a>).
